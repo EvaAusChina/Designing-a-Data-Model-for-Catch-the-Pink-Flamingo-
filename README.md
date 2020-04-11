@@ -1,3 +1,3 @@
-# Designing-a-Data-Model-for-Catch-the-Pink-Flamingo-
+Designing-a-Data-Model-for-Catch-the-Pink-Flamingo-
 
-# The course assignments are placed in this repository.
+The course assignments are placed in this repository.
